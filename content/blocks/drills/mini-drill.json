@@ -1,0 +1,18 @@
+type: "BeamDrill",
+name: "Mini drill",
+description: "Extracts resources from the walls",
+health: 67,
+size: 1,
+research: "core-bastion"
+researchCost: [
+beryllium/25
+]
+"requirements":[
+beryllium/11
+],
+hasLiquids: false
+squareSprite: false
+tier: 2
+range: 2
+drillTime: 275
+category: "production",
