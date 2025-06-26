@@ -2,7 +2,7 @@ name: erekir-plus
 displayName: Erekir Plus
 author: Raviravirego
 version: "1.0.0"
-minGameVersion: "146"
+minGameVersion: "149"
 dependencies: [ 
   black-hole-renderer
   ]
