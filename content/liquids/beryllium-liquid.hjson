@@ -1,0 +1,9 @@
+type: Liquid
+name: "Beryllium Liquid"
+description: "A simpler beryllium reagent and can be used to cool some turrets"
+color: 92dd7e
+temperature: 0
+heatCapacity: 0
+viscosity: 0
+alwaysUnlocked: false
+research: "beryllium"
