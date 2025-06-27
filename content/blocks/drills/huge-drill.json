@@ -1,0 +1,18 @@
+type: "BeamDrill",
+name: "Huge drill",
+description: "Extracts resources from the walls",
+health: 567,
+size: 4,
+research: "big-drill"
+researchCost: [
+beryllium/2500
+]
+"requirements":[
+beryllium/810
+],
+hasLiquids: false
+squareSprite: false
+tier: 6
+range: 4
+drillTime: 275
+category: "production",
