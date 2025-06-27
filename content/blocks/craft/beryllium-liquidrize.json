@@ -23,3 +23,15 @@ idleSoundVolume: 0.5
 itemCapacity: 30
 liquidCapacity: 100
 outputLiquid: beryllium-liquid/1
+drawer: {
+type: DrawMulti
+drawers: [
+{
+type: DrawRegion
+suffix: "-bottom"
+}
+{
+type: DrawDefault
+}
+    ]
+      }
